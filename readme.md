@@ -39,3 +39,7 @@ https://www.dbonline.jp/sqlite/
 - UNIQUE制約の使い方
 - DEFAULT制約の使い方
 - CHECK制約の使い方
+
+### 6. ビューの作成
+- ビューを作成する
+- ビューを削除する
