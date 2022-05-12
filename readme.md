@@ -26,3 +26,16 @@ https://www.dbonline.jp/sqlite/
 - SQLiteで利用可能なデータ型
 - カラムに格納された値のデータ型の確認
 - 文字列のエスケープ処理
+
+### 5. テーブルの作成
+- テーブルを作成する
+- テーブルスキーマ(構造)の確認
+- テーブル名の変更とカラムの追加
+- テーブルを削除する
+- PRIMARY KEY制約の使い方
+- ROWIDの参照とINTEGER PRIMARY KEYとの関係
+- AUTOINCREMENTを設定する場合としない場合の違い
+- NOT NULL制約の使い方
+- UNIQUE制約の使い方
+- DEFAULT制約の使い方
+- CHECK制約の使い方
