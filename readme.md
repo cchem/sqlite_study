@@ -11,3 +11,7 @@ https://www.dbonline.jp/sqlite/
 - sqlite3.dllのダウンロード
 - SQLiteのドキュメントを参照する
 
+### 2. SQLiteの基礎知識
+- コマンドラインツールでSQL文やコマンドの入力方法
+- SQLiteで定義されているキーワードに関する注意点
+- SQL文でのコメントの記述
